@@ -9,7 +9,7 @@ A simple Windows application written in C using WINAPI. Lets users render polygo
 Features
 --------
 
--Render polygons  
+-Render polygons(Up to 30 sides) 
 -Add or remove polygons  
 -Customize polygons  
 -Save and load  
