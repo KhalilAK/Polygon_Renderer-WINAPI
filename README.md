@@ -9,11 +9,11 @@ A simple Windows application written in C using WINAPI. Lets users render polygo
 Features
 --------
 
-Render Polygons
-Add or remove polygons
-Customize polygons
-Save and load
-Simple buttons with inputs
+-Render Polygons
+-Add or remove polygons
+-Customize polygons
+-Save and load
+-Simple buttons with inputs
 
 
 Compilation
