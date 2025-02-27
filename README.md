@@ -3,7 +3,7 @@
 Overview
 --------
 
-A simple Windows application written in C using WINAPI. Lets users render polygons of any shape, size, and color.
+A simple Windows application written in C using WINAPI. Lets users render polygons of any shape, size, and color(HEX).
 
 
 Features
