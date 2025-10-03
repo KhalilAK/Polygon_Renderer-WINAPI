@@ -17,21 +17,30 @@ This application provides an intuitive interface for rendering custom polygons d
 - 🖱️ **Interactive UI** - Simple buttons and input fields for easy control
 - 📐 **Full Customization** - Adjust shape, size, position, and appearance
 
-### Compilation
+## Getting Started
 
-Navigate to the project directory and run:
+### Prerequisites
 
-```bash
-gcc src/program.c -o program.exe -lgdi32
-```
+- GCC compiler (MinGW for Windows)
+- Windows OS
 
-### Running the Application
+### Installation
 
-```bash
-program.exe
-```
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/KhalilAK/Polygon_Renderer-WINAPI.git
+   cd Polygon_Renderer-WINAPI
+   ```
 
-Or simply double-click `program.exe` after compilation.
+2. **Compile the application**
+   ```bash
+   gcc src/program.c -o program.exe -lgdi32
+   ```
+
+3. **Run the application**
+   ```bash
+   program.exe
+   ```
 
 ## Usage
 
