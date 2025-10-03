@@ -41,6 +41,11 @@ This application provides an intuitive interface for rendering custom polygons d
    ```bash
    program.exe
    ```
+   ```bash
+   ./program.exe
+   ```
+
+   Use ./program.exe if program.exe doesn't work
 
 ## Usage
 
@@ -62,11 +67,11 @@ Use standard HEX color codes:
 
 ### Saving Your Work
 
-Click "Save" to export your current canvas configuration to a file.
+Automatically saves a .dat file
 
 ### Loading Previous Work
 
-Click "Load" and select a previously saved file to restore your polygons.
+Automatically loads the .dat file
 
 ## Project Structure
 
