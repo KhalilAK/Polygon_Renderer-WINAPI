@@ -129,14 +129,5 @@ Size: 120
 - Windows-only (requires WINAPI)
 - Single window instance
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Built with Windows API and GDI32 for lightweight, native Windows graphics rendering.
-
----
 
 **Made with ❤️ using pure C and WINAPI** | [View on GitHub](https://github.com/KhalilAK/Polygon_Renderer-WINAPI)
