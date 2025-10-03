@@ -51,7 +51,7 @@ This application provides an intuitive interface for rendering custom polygons d
 
 ### Creating a Polygon
 
-1. Specify the number of sides (3-30)
+1. Specify the number of sides (3-20)
 2. Set the size and position
 3. Choose a color using HEX format (e.g., `#FF5733`)
 4. Click "Add Polygon" to render
@@ -116,16 +116,16 @@ Color: #00FFFF
 Size: 150
 ```
 
-### Circle Approximation (30 sides)
+### Circle Approximation (20 sides)
 ```
-Sides: 30
+Sides: 20
 Color: #FFD700
 Size: 120
 ```
 
 ## Limitations
 
-- Maximum 30 sides per polygon
+- Maximum 20 sides per polygon
 - Windows-only (requires WINAPI)
 - Single window instance
 
