@@ -10,7 +10,7 @@ This application provides an intuitive interface for rendering custom polygons d
 
 ## Features
 
-- 🔷 **Polygon Rendering** - Create polygons with up to 30 sides
+- 🔷 **Polygon Rendering** - Create polygons with up to 20 sides
 - ➕ Add/Remove Polygons - Dynamically manage up to 5 shapes (adjustable via MAXPOLYGONS in code)
 - 🎨 **Color Customization** - Set polygon colors using HEX values
 - 💾 **Save & Load** - Preserve your work and load it later
