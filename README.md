@@ -41,6 +41,11 @@ This application provides an intuitive interface for rendering custom polygons d
    ```bash
    program.exe
    ```
+   ```bash
+   ./program.exe
+   ```
+
+   Use ./program.exe if program.exe doesn't work
 
 ## Usage
 
