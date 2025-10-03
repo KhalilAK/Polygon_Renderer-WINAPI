@@ -78,8 +78,9 @@ Automatically loads the .dat file
 ```
 Polygon-Renderer-WINAPI/
 ├── src/
-│   └── program.c          # Main application source code
-├── screenshot.png         # Application screenshot
+│   └── program.c        # Main application source code
+├── screenshots/
+    └── screenshot.png         # Application screenshot
 ├── README.md              # This file
 └── program.exe            # Compiled executable (after build)
 ```
