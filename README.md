@@ -2,7 +2,7 @@
 
 A lightweight Windows desktop application for creating and manipulating polygons with a simple graphical interface. Built entirely in C using the Windows API (WINAPI).
 
-![Polygon Renderer Screenshot](screenshot.png) #add screenshot
+![Polygon Renderer Screenshot](./screenshots/screenshot.png)
 
 ## Overview
 
