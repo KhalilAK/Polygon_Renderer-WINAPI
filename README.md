@@ -130,4 +130,4 @@ Size: 120
 - Single window instance
 
 
-**Made with ❤️ using pure C and WINAPI** | [View on GitHub](https://github.com/KhalilAK/Polygon_Renderer-WINAPI)
+**Made with ❤️ using pure C and WINAPI**
